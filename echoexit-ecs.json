@@ -1,0 +1,12 @@
+{
+  "containerDefinitions": [
+    {
+      "name": "main",
+      "image": "quay.io/kelcecil/echoexit",
+      "cpu": 1,
+      "memory": 1,
+      "essential": true
+    }
+  ],
+  "family": "echoexit-deleteme"
+}
